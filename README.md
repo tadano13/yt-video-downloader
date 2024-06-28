@@ -23,7 +23,7 @@ This project provides a simple tool for downloading YouTube videos by entering t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/tadano13/Youtube-video-downloader
+    git clone https://github.com/tadano13/yt-video-downloader
     ```
 2. Navigate to the project directory:
     ```bash
