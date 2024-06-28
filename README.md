@@ -85,5 +85,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For feedback or support, contact:
 
-- Email: your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: dendropic@gmail.com
+- GitHub: tadano (https://github.com/tadano13?tab=repositories)
