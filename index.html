@@ -1,0 +1,36 @@
+/**
+ * Youtube Video Downloader HTML page
+ *
+ * This HTML page provides a simple form for users to enter a YouTube video URL and download the video.
+ *
+ * Example:
+ * ```
+ * Open the HTML page in a web browser, enter a valid YouTube video URL in the input field, and click the "Submit" button.
+ * The video will be processed and downloaded to the user's device.
+ * ```
+ *
+ * @author tadano
+ * @version 1.0
+ */
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Youtube Video Downloader</title>
+    <link rel="stylesheet" href="/css/home_page.css">
+</head>
+<body>
+    <div class="form-container">  
+        <form id="myForm" action="main.php" method="post">  
+            <h1>Youtube Video Downloader</h1>  
+            <label for="url">URL:</label>  
+            <input type="text" id="url" name="main" placeholder="ENTER-YOUR-VIDEO-URL">  
+            <input type="submit" value="Submit">  
+            <div id="errorMessage">Please enter a URL.</div>
+            <div id="thankYouMessage">Thank you! Your video is being processed.</div>  
+        </form> 
+    </div>
+    <script src="/javascript/home_page.js"></script> 
+</body>
+</html>
