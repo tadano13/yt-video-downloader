@@ -75,7 +75,7 @@ curl_setopt_array($curl, [
     CURLOPT_CUSTOMREQUEST => "GET",
     CURLOPT_HTTPHEADER => [
         "x-rapidapi-host: ytstream-download-youtube-videos.p.rapidapi.com",
-        "x-rapidapi-key: a5494d3184msh22c0dcd2a596ab7p159360jsn3d0e74734b6f"
+        "x-rapidapi-key: ENTER-YOUR-API-KEY"
     ],
 ]);
 
